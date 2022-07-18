@@ -1,0 +1,7 @@
+{
+  "name": "openSteam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
